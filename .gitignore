@@ -1,0 +1,25 @@
+# Ambienti e file generati da Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dati e cronologia locali, ricreati dalle applicazioni
+/data/
+/market-analyzer/data/
+*.log
+
+# Node & Build
+node_modules/
+dist/
+dist-ssr/
+*.local
+.cache/
+.aistudio/
+
+# Configurazioni e credenziali locali
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml

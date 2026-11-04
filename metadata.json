@@ -1,0 +1,7 @@
+{
+  "name": "Financial & Market Analyzer",
+  "description": "Unified financial intelligence platform combining quantitative Covered Warrant analysis, scenario engine, reverse target optimizer, and cross-asset market briefing with Fed rate monitor, yield curves, and index screener.",
+  "version": "1.0.0",
+  "permissions": [],
+  "capabilities": []
+}
